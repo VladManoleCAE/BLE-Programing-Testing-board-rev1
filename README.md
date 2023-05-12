@@ -8,7 +8,7 @@ Download the repo and open BLE BOARD.PrjPcb using Altium Designer preferably.
 **You can check out:**
 
 **_Schematic:_**
-![image](https://github.com/VladManoleCAE/BLE-Programing-Testing-board-rev1/assets/133333286/3901197b-b98e-419f-ab26-ced6405090b4)
+![image](https://github.com/VladManoleCAE/BLE-Programing-Testing-board-rev1/assets/133333286/b163f31d-7ae8-45a5-a43f-0d84bfb95eff)
 
 **_PCB Design:_**
 
