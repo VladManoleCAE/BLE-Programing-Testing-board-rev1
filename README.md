@@ -11,6 +11,7 @@ Schematic:
 ![image](https://github.com/VladManoleCAE/BLE-Programing-Testing-board-rev1/assets/133333286/42e985a8-2a34-4a02-b028-237f590b701d)
 
 PCB Design:
+
 2D Front:
 ![Screenshot_1](https://github.com/VladManoleCAE/BLE-Programing-Testing-board-rev1/assets/133333286/de182d6c-4ea2-4c31-81df-72834c330c3a)
 2D Back:
