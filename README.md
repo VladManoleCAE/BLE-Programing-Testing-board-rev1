@@ -5,12 +5,12 @@ Download the repo and open BLE BOARD.PrjPcb using Altium Designer preferably.
 
 ![image](https://github.com/VladManoleCAE/BLE-Programing-Testing-board-rev1/assets/133333286/725a5731-eacd-46f7-8733-a8e820abd4f1)
 
-You can check out:
+**You can check out:**
 
-Schematic:
+**_Schematic:_**
 ![image](https://github.com/VladManoleCAE/BLE-Programing-Testing-board-rev1/assets/133333286/42e985a8-2a34-4a02-b028-237f590b701d)
 
-PCB Design:
+**_PCB Design:_**
 
 2D Front:
 ![Screenshot_1](https://github.com/VladManoleCAE/BLE-Programing-Testing-board-rev1/assets/133333286/de182d6c-4ea2-4c31-81df-72834c330c3a)
@@ -21,5 +21,5 @@ PCB Design:
 3D Back:
 ![Screenshot_3](https://github.com/VladManoleCAE/BLE-Programing-Testing-board-rev1/assets/133333286/e8de9cee-20d7-447d-bbbb-94e0eb906ba7)
 
-Final PCB:
-
+**_Final PCB:_**
+![20230512_125512 (1) (1)](https://github.com/VladManoleCAE/BLE-Programing-Testing-board-rev1/assets/133333286/d8d24854-1ecb-4185-b140-9073e9ba88c0)
