@@ -1,0 +1,5 @@
+Change Component Comment : Designator=J? Old Comment=Header 1x8 New Comment=Header 1x16
+Change Component Designator: OldDesignator=RN4678 NewDesignator=J4
+Change Component Designator: OldDesignator=RN4870 NewDesignator=J3
+Change Component Designator: OldDesignator=RN4871 NewDesignator=J5
+Change component parameters: Designator = "J?" ("J?"); Footprint = "HDR_M_2.54_1x8_STAGGERED"; UniqueID = "\DIUAKEOY" ("\DIUAKEOY")
